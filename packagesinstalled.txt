@@ -1,0 +1,17 @@
+to create the react app::npx create-react-app appname;
+
+
+to work with routes:: npm install react-router-dom
+
+
+to work with bootstrap:::npm install bootstrap
+& in index.js import the following::import 'bootstrap/dist/css/bootstrap.min.css';
+
+to work with font-awesome icons:: npm install react-icons
+& in where the icons are use::; import {IconName} from "react-icons/fa";
+
+to wroks with graphs in react::
+install:::npm install chart.js react-chartjs-2
+
+to download the graph required files.
+https://canvasjs.com/react-charts/chart-index-data-label/

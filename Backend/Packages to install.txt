@@ -1,0 +1,5 @@
+nodemon for serever auto restart::npm i nodemon.
+for connecting databse::npm i mongoose   || npm install --save monk &&mongod --dbpath=/data --port 27017
+for handling routes::npm i express
+for fetching data::npm i axios
+for safe fetching data::npm i cors

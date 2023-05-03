@@ -1,0 +1,123 @@
+.header
+{
+  background-color: #16848C;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-family:'Times New Roman', Times, serif;
+  width: 100%;
+ 
+
+  
+
+}
+div.header{
+  position:relative;
+
+}
+.sidebar{
+  width: 98%;
+  
+}
+.left
+{
+  
+  background-color: #16848C;
+ height: 100vh;
+}
+
+ul li
+{
+  list-style-type: none;
+  padding: 10%;
+}
+.select{
+  padding: 2%;
+  border-radius: 10%;
+  background-color: #16848C;
+  color: white;
+
+}
+.Link
+{
+  text-decoration: none;
+  color:black
+}
+.Link:hover{
+  color: white;
+}
+.boxinfo{
+  box-shadow:5px 5px 14px 0px rgba(54, 53, 53, 0.545);
+  border-radius:10px;
+  border: 1px solid rgba(128, 127, 127, 0.606);
+}
+.grid{
+  box-shadow: 13px 16px 18px -9px rgba(47, 47, 47, 0.551);
+}
+.icon
+{
+  margin-left: 15%;
+  font-size: 720%;
+  margin-bottom: 10%;
+}
+.tab
+{
+  background-color: crimson;
+  color: white;
+  border-radius: 10px;
+  padding:2%;
+}
+
+.container{
+  border: 1px solid black;
+}
+.option{
+  border-radius:10px;
+  background-color: crimson;
+  color:white;
+  padding: 2%;
+}
+.tabel{
+  border: 1px solid black;
+}
+.rows{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#chartContainer{
+  height: 300px;
+}
+.userrepo{
+  box-shadow: 5px 5px 4px;
+
+  border-radius: 10px;
+}
+#count{
+  height:auto;
+  background-color: aqua;
+  margin-top:2%;
+  border-radius: 10px;
+  
+}
+#col1{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: rgb(41, 24, 4);
+
+
+}
+#col2{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color:  rgb(41, 24, 4);
+
+
+}
+.tbl-container{
+  max-height: fit-content;
+}
+.tbl-fixed{
+  overflow-y: scroll;
+  overflow-x: scroll;
+  height: 45vh;
+}
